@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Diego Arguello | Portfolio</title>
+  <title>Brenda Torres | Portfolio</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
