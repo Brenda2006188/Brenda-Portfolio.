@@ -14,8 +14,8 @@
   </nav>
 
   <header>
-    <h1>Diego Arguello</h1>
-    <p>Aspiring Web Developer & Trader</p>
+    <h1>Brenda Torres</h1>
+    <p>Future Pharmacist</p>
   </header>
 
   <section id="about">
@@ -28,10 +28,10 @@
   <section id="skills">
     <h2>Skills</h2>
     <ul>
-      <li>HTML</li>
-      <li>CSS</li>
+      <li>Public Speech </li>
+      <li>Clinical abilities </li>
       <li>GitHub</li>
-      <li>AI Tools</li>
+      <li>Customber Services </li>
     </ul>
   </section>
 
